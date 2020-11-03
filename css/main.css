@@ -63,8 +63,8 @@
 }
 
 .logo-brand{
-    min-width: 80px;
-    max-width: 100px;
+    min-width: 60px;
+    max-width: 80px;
 }
 
 .navbar-toggler{
@@ -81,7 +81,7 @@
     background-image: url('../img/fotoportada.jpg');
     background-size: cover;
     padding-top: 40px;
-    margin-top: 150px;
+    margin-top: 100px;
     min-height: 250px;
     color: rgba(  0, 2, 39  ) 
 }
